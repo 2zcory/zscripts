@@ -1,3 +1,4 @@
+znvim=$HOME/.config/nvim
 zsc=$HOME/.zscripts
 zwp=$HOME/wp
 
