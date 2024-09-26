@@ -1,3 +1,5 @@
+sshconfig=$HOME/.ssh/config
+
 znvim=$HOME/.config/nvim
 zsc=$HOME/.zscripts
 zwp=$HOME/wp
